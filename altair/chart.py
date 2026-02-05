@@ -17,7 +17,7 @@ range=['#017339', '#e8ac0e', '#e25501']
 size = alt.Size('bill_length_mm', title='Bill Length (mm)'),
 
 tooltip = ['species', 'flipper_length_mm', 'body_mass_g', 'bill_length_mm']).properties(
-title='Penguin Size vs Mass',
+title='Penguin Size vs Mass (Altair)',
 width = 600,
 height = 480
 ).interactive()
