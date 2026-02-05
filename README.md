@@ -37,7 +37,7 @@ Tableau was the second fastest tool to use. I didn't have to write any code; I j
 - **Verdict:** The best tool for quickly exploring data without needing to program.
 
 ## 5. Flourish.
-![Flourish Visualization](flourish/flourish-graph.png)
+![Flourish Visualization](flourish/a2-flourish-graph.png)
 
 Flourish is a web-based tool and was the fastest tool, so I didn't have to install anything. I just uploaded my file and picked "Scatter Plot."
 - **Pros:** Zero setup required. The default animations and styles look good right away.
